@@ -1,0 +1,11 @@
+1. cluster setup. spark, pyspark, kafka cluster.
+2. we need to write
+three classes 
+3. userdata
+4. product
+5. useraction.
+6. kafkapublisher-- 
+7. python script to create 1 minute 
+8. write a pyspark streaming to process raw data write data in csv.
+10. to join hourly data in one hourly.
+
